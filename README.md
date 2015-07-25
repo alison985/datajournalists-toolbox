@@ -17,6 +17,7 @@ A curated set of tools for datajournalists, with examples and gists.
 
 ####Softwares
 - [Open Refine](https://github.com/basilesimon/datajournalists-toolbox/tree/master/open-refine), to clean and explore your data, however messy it is.
+- [CensusReporter](https://github.com/censusreporter/censusreporter/wiki), Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau.
 
 ##Contributing
 
